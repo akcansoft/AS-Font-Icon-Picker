@@ -17,12 +17,12 @@
 1. **Requirements:** Ensure you have [AutoHotkey v2](https://www.autohotkey.com/) installed.
 2. **Data Files:** Place your icon data in the `fonts_data` folder. Each font should have its own CSV file (e.g., `Segoe_MDL2_Assets.csv`).
    - Format: `HexCode,Description` (e.g., `E700,Home`)
-3. **Launch:** Run `AS Icon Picker.ahk`.
+3. **Launch:** Run `AS Font Icon Picker.ahk`.
 4. **Select Font:** Use the dropdown menu at the top to switch between available font data files.
 5. **Search & Copy:** Type in the search box to find icons. Use the context menu or double-click to copy to your clipboard.
 
 ## Contact & Support
-- **Author:** Mesut Akcan
+Mesut Akcan
 - **Email:** makcan@gmail.com
 - **Blog:** [akcansoft.blogspot.com](https://akcansoft.blogspot.com) / [mesutakcan.blogspot.com](https://mesutakcan.blogspot.com)
 - **GitHub:** [github.com/akcansoft](https://github.com/akcansoft)
