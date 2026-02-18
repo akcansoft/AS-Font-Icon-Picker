@@ -1,0 +1,224 @@
+F020,Space
+F021,Pencil
+F022,Scissors (Black)
+F023,Scissors (Cutting)
+F024,Eyeglasses
+F025,Bell (Ringing)
+F026,Book
+F027,Candle
+F028,Telephone (Black)
+F029,Telephone Location Sign
+F02A,Envelope (Back)
+F02B,Envelope (Front)
+F02C,"Mailbox (Closed, Flag Down)"
+F02D,"Mailbox (Closed, Flag Up)"
+F02E,"Mailbox (Open, Flag Up)"
+F02F,"Mailbox (Open, Flag Down)"
+F030,Folder (Closed)
+F031,Folder (Open)
+F032,Document (Text)
+F033,Document (Blank)
+F034,Document (Stacked)
+F035,File Cabinet
+F036,Hourglass
+F037,Keyboard
+F038,Mouse
+F039,Trackball
+F03A,Computer
+F03B,Hard Disk
+F03C,Floppy Disk
+F03D,Floppy Disk (Alternative)
+F03E,Tape
+F03F,Writing Hand (Right)
+F040,Writing Hand (Left)
+F041,Victory Hand
+F042,OK Hand
+F043,Thumbs Up
+F044,Thumbs Down
+F045,Pointing Left
+F046,Pointing Right
+F047,Pointing Up
+F048,Pointing Down
+F049,Hand (Raised)
+F04A,Smiling Face
+F04B,Neutral Face
+F04C,Frowning Face
+F04D,Bomb
+F04E,Skull and Crossbones
+F04F,Flag
+F050,Pennant
+F051,Airplane
+F052,Sun
+F053,Droplet
+F054,Snowflake
+F055,Latin Cross
+F056,Shadowed Cross
+F057,Celtic Cross
+F058,Maltese Cross
+F059,Star of David
+F05A,Star and Crescent
+F05B,Yin Yang
+F05C,Om
+F05D,Wheel of Dharma
+F05E,Aries
+F05F,Taurus
+F060,Gemini
+F061,Cancer
+F062,Leo
+F063,Virgo
+F064,Libra
+F065,Scorpio
+F066,Sagittarius
+F067,Capricorn
+F068,Aquarius
+F069,Pisces
+F06A,Ampersand (Curly)
+F06B,Ampersand (Bold)
+F06C,Black Circle
+F06D,Circle (Shadowed)
+F06E,Black Square
+F06F,Square (Open)
+F070,Square (Bold)
+F071,Square (Shadowed)
+F072,Square (Shadowed, Upper)
+F073,Diamond (Small)
+F074,Diamond (Medium)
+F075,Diamond (Large)
+F076,Diamond (minus X)
+F077,Diamond (Medium, Black)
+F078,Clear (X in Rectangle)
+F079,Escape (Arrow in Rectangle)
+F07A,Command Symbol
+F07B,Rosette
+F07C,Rosette (Black)
+F07D,Quote Start
+F07E,Quote End
+F07F,Reserved
+F080,Circled 0 (White)
+F081,Circled 1 (White)
+F082,Circled 2 (White)
+F083,Circled 3 (White)
+F084,Circled 4 (White)
+F085,Circled 5 (White)
+F086,Circled 6 (White)
+F087,Circled 7 (White)
+F088,Circled 8 (White)
+F089,Circled 9 (White)
+F08A,Circled 10 (White)
+F08B,Circled 0 (Black)
+F08C,Circled 1 (Black)
+F08D,Circled 2 (Black)
+F08E,Circled 3 (Black)
+F08F,Circled 4 (Black)
+F090,Circled 5 (Black)
+F091,Circled 6 (Black)
+F092,Circled 7 (Black)
+F093,Circled 8 (Black)
+F094,Circled 9 (Black)
+F095,Circled 10 (Black)
+F096,Leaf Bud (North East)
+F097,Leaf Bud (North West)
+F098,Leaf Bud (South West)
+F099,Leaf Bud (South East)
+F09A,Vine Leaf (North East)
+F09B,Vine Leaf (North West)
+F09C,Vine Leaf (South West)
+F09D,Vine Leaf (South East)
+F09E,Bullet (Tiny)
+F09F,Bullet (Small)
+F0A0,Square (Tiny)
+F0A1,Circle (Small)
+F0A2,Circle (Medium)
+F0A3,Circle (Large)
+F0A4,Circle (Fisheye)
+F0A5,Target (Bullseye)
+F0A6,Circle (Shadowed)
+F0A7,Square (Small)
+F0A8,Square (Medium Open)
+F0A9,Star (3-point)
+F0AA,Star (4-point)
+F0AB,Star (5-point)
+F0AC,Star (6-point)
+F0AD,Star (8-point)
+F0AE,Star (12-point)
+F0AF,Star (8-point Pinwheel)
+F0B0,Position Indicator (Square)
+F0B1,Position Indicator (Circle)
+F0B2,Diamond (Concave)
+F0B3,Square Lozenge
+F0B4,Uncertainty Sign
+F0B5,Star (Circled)
+F0B6,Star (Shadowed)
+F0B7,Clock 1:00
+F0B8,Clock 2:00
+F0B9,Clock 3:00
+F0BA,Clock 4:00
+F0BB,Clock 5:00
+F0BC,Clock 6:00
+F0BD,Clock 7:00
+F0BE,Clock 8:00
+F0BF,Clock 9:00
+F0C0,Clock 10:00
+F0C1,Clock 11:00
+F0C2,Clock 12:00
+F0C3,Ribbon Arrow (Down Left)
+F0C4,Ribbon Arrow (Down Right)
+F0C5,Ribbon Arrow (Up Left)
+F0C6,Ribbon Arrow (Up Right)
+F0C7,Ribbon Arrow (Left Up)
+F0C8,Ribbon Arrow (Right Up)
+F0C9,Ribbon Arrow (Left Down)
+F0CA,Ribbon Arrow (Right Down)
+F0CB,Quilt Square (Solid)
+F0CC,Quilt Square (Solid, Inverted)
+F0CD,Leaf (Turned South West)
+F0CE,Leaf (Turned North West)
+F0CF,Leaf (Turned South East)
+F0D0,Leaf (Turned North East)
+F0D1,Leaf (North West)
+F0D2,Leaf (South West)
+F0D3,Leaf (North East)
+F0D4,Leaf (South East)
+F0D5,Delete Left
+F0D6,Delete Right
+F0D7,Arrow Left (3D)
+F0D8,Arrow Right (3D)
+F0D9,Arrow Up (3D)
+F0DA,Arrow Down (3D)
+F0DB,Arrow Left (Circled)
+F0DC,Arrow Right (Circled)
+F0DD,Arrow Up (Circled)
+F0DE,Arrow Down (Circled)
+F0DF,Arrow Left (Wide-head)
+F0E0,Arrow Right (Wide-head)
+F0E1,Arrow Up (Wide-head)
+F0E2,Arrow Down (Wide-head)
+F0E3,Arrow North West (Wide-head)
+F0E4,Arrow North East (Wide-head)
+F0E5,Arrow South West (Wide-head)
+F0E6,Arrow South East (Wide-head)
+F0E7,Arrow Left (Wide-head Heavy)
+F0E8,Arrow Right (Wide-head Heavy)
+F0E9,Arrow Up (Wide-head Heavy)
+F0EA,Arrow Down (Wide-head Heavy)
+F0EB,Arrow North West (Wide-head Heavy)
+F0EC,Arrow North East (Wide-head Heavy)
+F0ED,Arrow South West (Wide-head Heavy)
+F0EE,Arrow South East (Wide-head Heavy)
+F0EF,Arrow Left (White)
+F0F0,Arrow Right (White)
+F0F1,Arrow Up (White)
+F0F2,Arrow Down (White)
+F0F3,Arrow Left-Right (White)
+F0F4,Arrow Up-Down (White)
+F0F5,Arrow North East (White)
+F0F6,Arrow North West (White)
+F0F7,Arrow South West (White)
+F0F8,Arrow South East (White)
+F0F9,Rectangle
+F0FA,Square
+F0FB,Ballot Box with Bold X
+F0FC,Check Mark (Heavy)
+F0FD,Ballot Box with Bold X (Script)
+F0FE,Ballot Box with Bold Check
+F0FF,Windows Logo
