@@ -1,4 +1,4 @@
-# AS Font Icon Picker v1.1
+# AS Font Icon Picker v1.2
 
 **AS Font Icon Picker** is a lightweight, searchable icon picker utility built with [AutoHotkey v2](https://autohotkey.com). It allows developers and designers to browse, search, and copy icons from various icon fonts (such as [Segoe MDL2 Assets](https://learn.microsoft.com/en-us/windows/apps/design/style/segoe-ui-symbol-font), [Segoe Fluent Icons](https://learn.microsoft.com/en-us/windows/apps/design/style/segoe-fluent-icons-font), [Wingdings](https://learn.microsoft.com/en-us/typography/font-list/wingdings), etc.) based on external data files.
 
