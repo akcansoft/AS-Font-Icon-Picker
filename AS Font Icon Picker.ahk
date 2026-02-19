@@ -9,7 +9,7 @@ mesutakcan.blogspot.com
 github.com/akcansoft
 youtube.com/mesutakcan
 
-19/02/2026
+20/02/2026
 */
 
 #Requires AutoHotkey v2.0
@@ -20,7 +20,7 @@ try TraySetIcon(A_WinDir "\System32\shell32.dll", 75)
 ; Application Configuration
 APP := {
 	Name: "AS Font Icon Picker",
-	Version: "1.1",
+	Version: "1.2",
 	Font: "Segoe UI",
 	fontsFolder: "fonts_data",
 	currentFontName: "",
@@ -205,13 +205,18 @@ LoadFontData(fontName) {
 		for line in StrSplit(FileRead(csvFile), "`n", "`r") {
 			if (Trim(line) = "")
 				continue
-			parts := StrSplit(line, ",")
-			if parts.Length >= 2
+
+			; CSV modunda parse et — tırnak içi virgüller doğru işlenir
+			fields := []
+			Loop Parse, line, "CSV"
+				fields.Push(A_LoopField)
+
+			if fields.Length >= 2
 				APP.allIcons.Push({
-					Code: parts[1],
-					Name: parts[2],
-					CodeLow: StrLower(parts[1]),
-					NameLow: StrLower(parts[2])
+					Code: fields[1],
+					Name: fields[2],
+					CodeLow: StrLower(fields[1]),
+					NameLow: StrLower(fields[2])
 				})
 		}
 	} catch as err {
