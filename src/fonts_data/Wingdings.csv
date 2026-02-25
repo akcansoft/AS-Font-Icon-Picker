@@ -80,12 +80,12 @@ F06E,Black Square
 F06F,Square (Open)
 F070,Square (Bold)
 F071,Square (Shadowed)
-F072,Square (Shadowed, Upper)
+F072,"Square (Shadowed, Upper)"
 F073,Diamond (Small)
 F074,Diamond (Medium)
 F075,Diamond (Large)
 F076,Diamond (minus X)
-F077,Diamond (Medium, Black)
+F077,"Diamond (Medium, Black)"
 F078,Clear (X in Rectangle)
 F079,Escape (Arrow in Rectangle)
 F07A,Command Symbol
@@ -170,7 +170,7 @@ F0C8,Ribbon Arrow (Right Up)
 F0C9,Ribbon Arrow (Left Down)
 F0CA,Ribbon Arrow (Right Down)
 F0CB,Quilt Square (Solid)
-F0CC,Quilt Square (Solid, Inverted)
+F0CC,"Quilt Square (Solid, Inverted)"
 F0CD,Leaf (Turned South West)
 F0CE,Leaf (Turned North West)
 F0CF,Leaf (Turned South East)
@@ -222,3 +222,4 @@ F0FC,Check Mark (Heavy)
 F0FD,Ballot Box with Bold X (Script)
 F0FE,Ballot Box with Bold Check
 F0FF,Windows Logo
+
