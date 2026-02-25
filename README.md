@@ -8,7 +8,7 @@
 ![GitHub stars](https://img.shields.io/github/stars/akcansoft/AS-Font-Icon-Picker?style=social)
 ![GitHub forks](https://img.shields.io/github/forks/akcansoft/AS-Font-Icon-Picker?style=social)
 ![GitHub issues](https://img.shields.io/github/issues/akcansoft/AS-Font-Icon-Picker)
-<!-- [![Downloads](https://img.shields.io/github/downloads/akcansoft/AS-Font-Icon-Picker/total)](https://github.com/akcansoft/AS-Font-Icon-Picker/releases) -->
+[![Downloads](https://img.shields.io/github/downloads/akcansoft/AS-Font-Icon-Picker/total)](https://github.com/akcansoft/AS-Font-Icon-Picker/releases)
 
 **AS Font Icon Picker** is a lightweight, searchable icon picker utility built with [AutoHotkey v2](https://autohotkey.com). It allows developers and designers to browse, search, and copy icons from various icon fonts (such as [Segoe MDL2 Assets](https://learn.microsoft.com/en-us/windows/apps/design/style/segoe-ui-symbol-font), [Segoe Fluent Icons](https://learn.microsoft.com/en-us/windows/apps/design/style/segoe-fluent-icons-font), [Wingdings](https://learn.microsoft.com/en-us/typography/font-list/wingdings), etc.) based on external data files.
 
