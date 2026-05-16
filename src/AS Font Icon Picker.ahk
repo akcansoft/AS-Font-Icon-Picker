@@ -4,9 +4,8 @@ AS Font Icon Picker
 Mesut Akcan
 ------------
 makcan@gmail.com
-akcansoft.blogspot.com
 mesutakcan.blogspot.com
-github.com/akcansoft
+github.com/mesutakcan
 youtube.com/mesutakcan
 
 20/02/2026
@@ -309,8 +308,8 @@ ShowAbout(*) {
 	MsgBox(
 		APP.Name " v" APP.Version "`n`n"
 		"Mesut Akcan`n"
-		"akcansoft.blogspot.com`n"
-		"github.com/akcansoft`n"
+		"mesutakcan.blogspot.com`n"
+		"github.com/mesutakcan`n"
 		"youtube.com/mesutakcan",
 		"About", 64)
 }
