@@ -3,12 +3,12 @@
 [![AutoHotkey](https://img.shields.io/badge/Language-AutoHotkey_v2-green.svg)](https://www.autohotkey.com/)
 [![Platform](https://img.shields.io/badge/Platform-Windows-blue.svg)](https://www.microsoft.com/windows)
 [![License](https://img.shields.io/badge/License-GPL_v3-blue.svg)](LICENSE)
-[![Version](https://img.shields.io/badge/Version-1.2-brightgreen.svg)](https://github.com/akcansoft/AS-Font-Icon-Picker/releases) 
+[![Version](https://img.shields.io/badge/Version-1.2-brightgreen.svg)](https://github.com/mesutakcan/AS-Font-Icon-Picker/releases) 
 
-![GitHub stars](https://img.shields.io/github/stars/akcansoft/AS-Font-Icon-Picker?style=social)
-![GitHub forks](https://img.shields.io/github/forks/akcansoft/AS-Font-Icon-Picker?style=social)
-![GitHub issues](https://img.shields.io/github/issues/akcansoft/AS-Font-Icon-Picker)
-[![Downloads](https://img.shields.io/github/downloads/akcansoft/AS-Font-Icon-Picker/total)](https://github.com/akcansoft/AS-Font-Icon-Picker/releases)
+![GitHub stars](https://img.shields.io/github/stars/mesutakcan/AS-Font-Icon-Picker?style=social)
+![GitHub forks](https://img.shields.io/github/forks/mesutakcan/AS-Font-Icon-Picker?style=social)
+![GitHub issues](https://img.shields.io/github/issues/mesutakcan/AS-Font-Icon-Picker)
+[![Downloads](https://img.shields.io/github/downloads/mesutakcan/AS-Font-Icon-Picker/total)](https://github.com/mesutakcan/AS-Font-Icon-Picker/releases)
 
 **AS Font Icon Picker** is a lightweight, searchable icon picker utility built with [AutoHotkey v2](https://autohotkey.com). It allows developers and designers to browse, search, and copy icons from various icon fonts (such as [Segoe MDL2 Assets](https://learn.microsoft.com/en-us/windows/apps/design/style/segoe-ui-symbol-font), [Segoe Fluent Icons](https://learn.microsoft.com/en-us/windows/apps/design/style/segoe-fluent-icons-font), [Wingdings](https://learn.microsoft.com/en-us/typography/font-list/wingdings), etc.) based on external data files.
 
@@ -55,6 +55,6 @@ If you have prepared data files for other icon fonts and would like them to be i
 ## Contact & Support
 Mesut Akcan
 - **Email:** makcan@gmail.com
-- **Blog:** [akcansoft.blogspot.com](https://akcansoft.blogspot.com) / [mesutakcan.blogspot.com](https://mesutakcan.blogspot.com)
-- **GitHub:** [github.com/akcansoft](https://github.com/akcansoft)
+- **Blog:** [mesutakcan.blogspot.com](https://mesutakcan.blogspot.com)
+- **GitHub:** [github.com/mesutakcan](https://github.com/mesutakcan)
 - **YouTube:** [youtube.com/mesutakcan](https://youtube.com/mesutakcan)
